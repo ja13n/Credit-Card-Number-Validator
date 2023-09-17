@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    size: 100px;
+    padding-top: 200px;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+
+#card-image {
+    justify-content: center;
+    align-content:center;
+    display: flex;
+    /* margin-top: 175px; */
+    background-color: black;
+    fill: black;
+    size: 200px;
+    /* padding-top: 100px; */
+    /* max-height: 200px;
+    max-width: 100px; */
+}
+
+#number-input {
+    align-content: center;
+    text-align: center;
+}
+
+#submit-button-id {
+    text-align: center;
+}
+
